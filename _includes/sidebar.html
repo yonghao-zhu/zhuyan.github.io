@@ -23,20 +23,13 @@
         <a class="contact-info u-email" href="mailto:{{ site.email }}">{{ site.email }}</a>
       </li>
     {%- endif %}
-    {% if site.location -%}
-      <li>
-        <i class="sidebar-icon fas fa-location-arrow"></i>
-        <a class="contact-info u-location" href="https://www.google.com/maps/search/{{ site.location }}">{{ site.location }}</a>
-      </li>
-    {%- endif %}
   </ul>
 </div>
 
 {% if site.subscribe != false -%}
 <div class="sidebar-section feed-subscribe">
-  <a href="{{ 'feed.xml' | relative_url }}">
-    <i class="sidebar-icon fas fa-rss"></i><span>Subscribe</span>
-  </a>
+  微信公众号: KExpress 
+  <img src="../imags/Kexpress.jpg" width="150" height="150" />
 </div>
 {%- endif %}
 
