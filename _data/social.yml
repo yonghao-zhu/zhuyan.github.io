@@ -1,6 +1,11 @@
-- title: Twitter
-  url: https://twitter.com/ngzhio
-  icon: fab fa-twitter
-- title: GitHub
-  url: https://github.com/ngzhio/jekyll-theme-hamilton
+- title: Researchgate
+  url: https://www.researchgate.net/profile/Zhu-Yonghao
+  icon: fab fa-researchgate
+
+- title: MyGitHub
+  url: https://github.com/yonghao-zhu
+  icon: fab fa-github
+
+- title: Organizations
+  url: https://github.com/Crazy-Rookie
   icon: fab fa-github
