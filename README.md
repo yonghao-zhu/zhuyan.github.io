@@ -1,3 +1,5 @@
+Blog: https://yonghao-zhu.github.io/zhuyan.github.io/
+
 # Hamilton <!-- omit in toc -->
 
 A minimal and beautiful Jekyll theme best for writing and note-taking.
