@@ -8,9 +8,11 @@ author:
   - Nemoshkalenko V V, Antonov N V
 ---
 
-Computational Methods in Solid State Physics
+# Computational Methods in Solid State Physics
 
-<img src="https://yonghao-zhu.github.io/zhuyan.github.io)/imags/library/CMSSP/0-CMSSP.jpg" width="60%">
+Nemoshkalenko V V, Antonov N V
+
+<img src="https://yonghao-zhu.github.io/zhuyan.github.io/imags/library/CMSSP/0-CMSSP.jpg" width="40%">
 
 ## Perface
 
