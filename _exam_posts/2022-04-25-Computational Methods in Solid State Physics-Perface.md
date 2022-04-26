@@ -1,12 +1,11 @@
 ---
 layout: post
 toc: true
-title: "This post demonstrates post content styles"
-categories: junk
-tags: [markdown, css, html]
+title: "Computational Methods in Solid State Physics: Perface"
+categories: Library
+tags: [electronic-structure, Computational Methods in Solid State Physics]
 author:
-  - Bart Simpson
-  - Nelson Mandela Muntz
+  - Nemoshkalenko V V, Antonov N V
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
@@ -114,3 +113,6 @@ lorem | lorem ipsum | lorem ipsum dolor | lorem ipsum dolor sit
 lorem ipsum dolor sit amet | lorem ipsum dolor sit amet consectetur | lorem ipsum dolor sit amet | lorem ipsum dolor sit
 lorem ipsum dolor | lorem ipsum | lorem | lorem ipsum
 lorem ipsum dolor | lorem ipsum dolor sit | lorem ipsum dolor sit amet | lorem ipsum dolor sit amet consectetur
+
+## References
+- Nemoshkalenko V V, Antonov N V. Computational methods in solid state physics[M]. CRC Press, 1999.

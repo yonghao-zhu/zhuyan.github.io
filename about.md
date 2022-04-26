@@ -44,4 +44,4 @@ permalink: /about/
 
 ## 生活照
 
-| sunrise | ![sunrise](../imags/sunrise.jpg "sunrise") |
+<img src="../imags/sunrise.jpg" width="60%">
