@@ -6,6 +6,7 @@ categories: Library
 tags: [electronic-structure, Computational Methods in Solid State Physics]
 author:
   - Nemoshkalenko V V, Antonov N V
+  - (Yonghao Zhu Trans.)
 ---
 
 # Computational Methods in Solid State Physics
