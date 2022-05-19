@@ -1,7 +1,7 @@
 ---
 layout: post
 toc: true
-title: "Computational Methods in Solid State Physics: Perface"
+title: "固体物理的计算理论: 前言"
 categories: Library
 tags: [electronic-structure, Computational Methods in Solid State Physics]
 author:
