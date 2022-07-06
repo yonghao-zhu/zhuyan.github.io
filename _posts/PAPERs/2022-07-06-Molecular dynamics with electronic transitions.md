@@ -31,7 +31,7 @@ where $V_1$ and $V_1$ are the energies of the two adiabatic states at the positi
 
 &emsp; In the next section we present a list of attributes that are desireable, if not essential, for any approach that incorporates electronic transitions into molecular dynamics. We then propose a specific method, possibly the simplest that displays most of these attributes. In Sec. IV we test the proposed method against accurate quantum mechanical solutions of three model problems. We discuss the promise and limitations of the method in the final section.
 
-[剩下的就不copy了，直接到我的notion中查看吧！](https://yonghaozhu.notion.site/1-John-C-Tully-Molecular-dynamics-with-electronic-transitions-3f6168acbee54c0db447617b404632ed "My Notion")
+[剩下的就不copy了，直接到我的notion中查看吧！](https://yonghaozhu.notion.site/share-John-C-Tully-Molecular-dynamics-with-electronic-transitions-0a28596490b54717bad0651c920151fb "My Notion")
 
 ## code
 &emsp; 大家如果对这部分感兴趣，可以查看我的[github仓库](https://github.com/yonghao-zhu/Tully_FSSH "Tully FSSH")。
