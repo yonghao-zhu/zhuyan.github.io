@@ -8,7 +8,6 @@ author:
   - John C. Tully
 ---
 
-<img src="https://yonghao-zhu.github.io/zhuyan.github.io/imags/library/person/John C. Tully.jpg" width="40%">
 [John C. Tully](https://chem.yale.edu/faculty/john-tully "John C. Tully") 
 
 [J. Chem. Phys. 93, 1061(1990)](https://doi.org/10.1063.1.459170 "Molecular dynamics with electronic transitions")
@@ -34,3 +33,4 @@ where $V_1$ and $V_1$ are the energies of the two adiabatic states at the positi
 
 [剩下的就不copy了，直接到我的notion中查看吧！](https://yonghaozhu.notion.site/1-John-C-Tully-Molecular-dynamics-with-electronic-transitions-3f6168acbee54c0db447617b404632ed "My Notion")
 
+# 大家如果对这部分感兴趣，可以查看我的[github仓库](https://github.com/yonghao-zhu/Tully_FSSH "Tully FSSH")。
